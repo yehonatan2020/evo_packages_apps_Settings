@@ -13028,4 +13028,7 @@
 
     <!--Text for Stylus Pointer Icon preference -->
     <string name="show_stylus_pointer_icon">Show pointer while hovering</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
 </resources>
